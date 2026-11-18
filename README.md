@@ -142,3 +142,4 @@ All edits and modifications are persisted in `localStorage` under keys prefixed 
 - `lavino_standalone_company_v2`
 
 To reset back to initial demo data at any time, simply click the **"Reset Demo"** button in the top navigation header.
+# new-one
